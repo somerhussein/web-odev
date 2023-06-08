@@ -1,0 +1,87 @@
+html,body {
+     height: 100%;
+}
+ body.register-main {
+     background-color: #f7f9fb;
+     font-size: 14px;
+}
+ .social-button {
+     border:none !important;
+     background: transparent !important;
+}
+ .register-main .card-wrapper {
+     width: 400px;
+     display:flex;
+     align-items:center;
+}
+ .register-main .card {
+     border-color: transparent;
+     box-shadow: 0 4px 8px rgba(0,0,0,.05);
+}
+ .register-main .card.fit {
+     padding: 10px;
+     width: 100%;
+}
+ .register-main .card .card-title {
+     margin-bottom: 30px;
+     color: rgb(107 114 128);
+     font-size: 36px;
+}
+ .register-main .form-control {
+     border-width: 1.5px;
+     margin-top: 10px;
+     border-radius: 20px;
+     background-color: #f1f1f1bd;
+}
+ .register-main .form-group label {
+     width: 100%;
+}
+ .register-main .btn.btn-block {
+     padding: 12px 10px;
+}
+ .register-main .footer {
+     margin: 40px 0;
+     color: #888;
+     text-align: center;
+}
+ .submit-btn{
+     font-weight: bold;
+     border-radius: 25px;
+     background-color: #ca21df;
+     border:none;
+     color:white;
+}
+ .has-account{
+     color: rgb(107 114 128);
+}
+ @media screen and (max-width: 425px) {
+     .register-main .card-wrapper {
+         width: 90%;
+         margin: 0 auto;
+    }
+}
+ @media screen and (max-width: 320px) {
+     .register-main .card.fit {
+         padding: 0;
+    }
+     .register-main .card.fit .card-body {
+         padding: 15px;
+    }
+}
+ .circle-icons {
+     display: flex;
+     justify-content: center;
+     margin-bottom:1rem;
+}
+ .circle-icons i {
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     width: 50px;
+     height: 50px;
+     border-radius: 50%;
+     background-color: rgba(255, 255, 255, 0.923);
+     margin-right: 10px;
+     border: 1px solid #ced4da;
+}
+ 
