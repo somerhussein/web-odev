@@ -1,2 +1,4 @@
-# web-odev
-Malatya Turgut Özal Üniversitesi - Web Programlama Vize
+# Malatya Turgut Özal Üniversitesi - Web Programlama Vize
+
+-Somer Hussein
+-02200201510
