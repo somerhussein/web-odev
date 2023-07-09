@@ -6,6 +6,12 @@
 
 ---
 
+## 📚 Project Assignment
+
+This project was assigned as homework by Hamit Mızrak. It is aimed at providing practical experience with form handling, JavaScript, and front-end development. 
+
+We greatly appreciate Hamit Mızrak's guidance and support throughout the project! 😊🙏
+
 ### 📝 Table of Contents
 
 - [Description](#description)
